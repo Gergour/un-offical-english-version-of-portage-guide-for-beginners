@@ -5,4 +5,4 @@ like documentation for asnwering a quick question)
 #Portage
 #idk
 
-(warn: not an English proper translation, is a online translation, so this can have issues)
+(warn: not an Human proper translation, is a online translation, so this can have issues)
